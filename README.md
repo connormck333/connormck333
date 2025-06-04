@@ -13,6 +13,9 @@
 
 <h3>Medium Articles</h3>
 <!-- BLOG-POST-LIST:START -->
+- [How to spawn corpses in Minecraft?](https://medium.com/@connora.mckenzie/how-to-spawn-corpses-in-minecraft-44430ce9f7d9?source=rss-f09ecee3b286------2)
+- [Can AI Predict the F1 2025 Season?](https://medium.com/@connora.mckenzie/can-ai-predict-the-f1-2025-season-6d629e1e56a4?source=rss-f09ecee3b286------2)
+- [Learning C++: Let’s build Minecraft!](https://medium.com/@connora.mckenzie/learning-c-lets-build-minecraft-a9394bb054e0?source=rss-f09ecee3b286------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Github Stats</h3>
